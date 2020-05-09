@@ -1,2 +1,5 @@
 "readme file practice" 
-"Clong test"
+"Clone test"
+"Push & Pull test"
+"Push & Pull update!"
+"Search_branch 작업"
